@@ -17,4 +17,4 @@ app.get('/', function (req, res) {
  
 app.listen(3000)
 ```
-$$((((x))))$$
+$$x = {-b \pm \sqrt{b^2-4ac} \over 2a}.$$
