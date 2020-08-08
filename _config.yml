@@ -2,7 +2,7 @@ title: Texture Theme
 author: GitHub User
 email: your-email@domain.com
 description: > # this means to ignore newlines until "show_exerpts:"
- My life is like an island ,where does this ocean go?
+ 
 show_excerpts: true # set to true to show excerpts on the homepage
 baseurl: /rua_awesome_blog
 
@@ -14,11 +14,11 @@ sass:
 permalink: /posts/:title/
 texture:
   title: Rua
-  tagline: Idler
+  tagline: My life is like an island ,where does this ocean go?
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
-  showPicker: true
+  showNav: true
+  showPicker: false #改变背景颜色的控件
 
   # generate social links in footer
   social_links:

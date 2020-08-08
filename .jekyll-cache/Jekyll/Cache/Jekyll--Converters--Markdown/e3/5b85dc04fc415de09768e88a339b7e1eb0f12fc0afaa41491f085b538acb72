@@ -1,4 +1,4 @@
-I"Y<p>test</p>
+I"d<p>数学公式和编程显示的测试</p>
 
 <div class="language-javascript highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="kd">const</span> <span class="nx">express</span> <span class="o">=</span> <span class="nx">require</span><span class="p">(</span><span class="dl">'</span><span class="s1">express</span><span class="dl">'</span><span class="p">)</span>
 <span class="kd">const</span> <span class="nx">app</span> <span class="o">=</span> <span class="nx">express</span><span class="p">()</span>
@@ -9,5 +9,5 @@
  
 <span class="nx">app</span><span class="p">.</span><span class="nx">listen</span><span class="p">(</span><span class="mi">3000</span><span class="p">)</span>
 </code></pre></div></div>
-<p>\(x = {-b \pm \sqrt{b^2-4ac} \over 2a}\)</p>
+<p>\(a^2 + b^2 = c^2\)</p>
 :ET

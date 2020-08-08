@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Coding Post"
-description: An example post which shows code rendering.
+title:  "Latex公式测试"
+description: 
 date:   2019-05-23 21:03:36 +0530
-categories: Javascript NodeJS
+categories: test
 ---
-test
+数学公式和编程显示的测试
 
 ```javascript
 const express = require('express')
