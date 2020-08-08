@@ -38,3 +38,7 @@ texture:
 plugins:
   - jekyll-seo-tag
 #  - jekyll-feed
+
+markdown: kramdown
+kramdown:
+   math_engine: mathjax
