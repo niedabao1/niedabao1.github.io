@@ -1,6 +1,7 @@
-*.gem
-.bundle
-.sass-cache
+# hidden files
+.*
+!.github
+
+# jekyll cache
 _site
-Gemfile.lock
-.DS_Store
+vendor
