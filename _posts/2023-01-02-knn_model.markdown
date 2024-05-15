@@ -1,0 +1,11 @@
+---
+
+layout: post
+title: "knn算法"
+description: 
+date: 2023-1-2 14:03:36 +0530
+categories: deep_learning
+
+---
+
+
